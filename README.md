@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mehcanic online and professionally life for 14 years.
+- 👋 Hi, I’m @Mehcanic online and professionally for 14 years.
 - 👀 I’m interested in DataBases and API's.
 - 🌱 I’m currently learning Software Development at General Assembly.
 
